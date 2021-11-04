@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Deby's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebyDelgado&show_icons=true&theme=dracula)
+✨✨
+![DebyDelgado GitHub stats](https://github-readme-stats.vercel.app/api?username=DebyDelgado&theme=dracula&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebyDelgado&layout=compact&theme=dracula&)](https://github.com/DebyDelgado/github-readme-stats)
 
