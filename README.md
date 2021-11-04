@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Deby's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebyDelgado&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebyDelgado&layout=compact)](https://github.com/DebyDelgado/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebyDelgado&layout=compact&theme=dracula&)](https://github.com/DebyDelgado/github-readme-stats)
 
