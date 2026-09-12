@@ -97,7 +97,9 @@ I am particularly interested in the intersection between **software engineering 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DebyDelgado/DebyDelgado/main/dist/pet.svg" width="600">
+<img src="https://raw.githubusercontent.com/DebyDelgado/DebyDelgado/main/dist/isocat.svg" width="894">
+
+</div>
 
 </div>
 
