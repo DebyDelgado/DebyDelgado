@@ -7,8 +7,7 @@ const deby = {
   pronouns: "she" | "her",
   code: [Typescript, Java, C#, ANGULAR, Javascript],
   tools: [React, Redux, Node/Bun, Hybris, Docker],
-  system: [Linux, macOS, Win],
-  🎮 Music • Games • Cats • Code 
+  system: [Linux, macOS, Win] 
 }
 ```
 
