@@ -1,32 +1,20 @@
-<p align="center">
-  <i>Software Engineer</i>
-</p>
-
----
-
-## 🏰 About
-
-Software Engineer with experience developing enterprise e-commerce solutions using Java, Spartacus, and SAP Commerce (Hybris). Passionate about building scalable, maintainable applications and continuously improving software quality through clean code and modern development practices.
-My background includes full-stack development, application support, automation, and observability, with experience using Elastic Search Kibana, Tines, New Relic, and Datadog to monitor, troubleshoot, and improve production systems.
-I actively leverage AI-assisted development tools to improve productivity, accelerate problem-solving, and streamline engineering workflows.
-Currently expanding my expertise in cloud technologies, software architecture, and enterprise application development.
-English: C1 (IELTS Certified) | German: A1.1 (currently studying at the Sprachzentrum)
-I am in the process of obtaining Spanish citizenship to broaden my professional opportunities and am excited about contributing to innovative projects. Outside of work, I enjoy video games, medieval history, and spending time with my cats.
-
-```text
-╔══════════════════════════════════════════════╗
-║              ✦ THE DEVELOPER ✦              ║
-╠══════════════════════════════════════════════╣
-║  ⚔️  Full Stack Development                  ║
-║  🏰  Web Applications                        ║
-║  📜  Modern Authentication                   ║
-║  🔮  Generative AI & Prompt Engineering      ║
-║  🛡️  Testing & Observability                 ║
-║  🗺️  Cloud & Automation                      ║
-╚══════════════════════════════════════════════╝
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=d5669d&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=180&lines=Hello+hello;I'm+a+Software+Engineer+%26+a+tech+goblin+%E2%9C%A9" width="70%" />
+<br><br>
+  
+```javascript
+const deby = {
+  pronouns: "she" | "her",
+  code: [Typescript, Java, C#, ANGULAR, Javascript],
+  tools: [React, Redux, Node/Bun, Hybris, Docker],
+  system: [Linux, macOS, Win],
+  🎮 Music • Games • Cats • Code 
+}
 ```
 
----
+<br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br>
 
 
 <div align="center">
@@ -45,13 +33,13 @@ I am in the process of obtaining Spanish citizenship to broaden my professional 
 
 ## 🗡️ Experience
 
-|            | Company              | Role                      |
-| ------------ | ------------------ | ------------------------- |
-| ⚔️ Present   | **Chevron**        | Software Engineer         |
-| 🏰 Previous  | **Eron**           | Automation Engineer / NOC |
-| 📜 Previous  | **Definity First** | Application Specialist    |
-| 🛡️ Previous | **Piano**          | Technical Advisor         |
-| ⚔️ Previous  | **Accenture**      | Full Stack Developer      |
+                                        |             | Company              | Role                     |
+                                        | ------------ | ------------------ | ------------------------- |
+                                        | ⚔️ Present   | **Chevron**        | Software Engineer         |
+                                        | 🏰 Previous  | **Eron**           | Automation Engineer / NOC |
+                                        | 📜 Previous  | **Definity First** | Application Specialist    |
+                                        | 🛡️ Previous | **Piano**          | Technical Advisor          |
+                                        | ⚔️ Previous  | **Accenture**      | Full Stack Developer      |
 
 ---
 
@@ -61,8 +49,6 @@ I enjoy working on problems involving:
 
 `Frontend Architecture` · `Backend Development` · `Authentication` · `APIs`
 `Testing` · `Metrics` · `Cloud` · `Automation` · `GenAI`
-
-I am particularly interested in the intersection between **software engineering and emerging AI tools**.
 
 ---
 
