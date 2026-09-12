@@ -18,12 +18,6 @@ const deby = {
 
 
 <div align="center">
-  <img src="https://gitglance-eight.vercel.app/api/combined?username=DebyDelgado&style=mesh&theme=sunset" width="800">
-</div>
-
-
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/DebyDelgado/DebyDelgado/main/dist/pet.svg" width="894">
 
