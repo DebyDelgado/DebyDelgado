@@ -1,8 +1,5 @@
 # ⚔️ Deborah Delgado
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2b2523&height=180&section=header&text=The%20Chronicle%20of%20Deborah&fontColor=e8d8b0&fontSize=38&fontAlignY=35" />
-</p>
 
 <p align="center">
   <i>Software Engineer</i>
