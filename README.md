@@ -29,48 +29,19 @@ I am in the process of obtaining Spanish citizenship to broaden my professional 
 ---
 
 
-### ⚜️ Languages & Frameworks
+<div align="center">
+  <img src="https://gitglance-eight.vercel.app/api/combined?username=DebyDelgado&style=mesh&theme=sunset" width="800">
+</div>
 
-<p align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,angular,react,cs,dotnet,html,css,java" />
 
-</p>
+<div align="center">
 
-### 🏰 Databases & Cloud
+<img src="https://raw.githubusercontent.com/DebyDelgado/DebyDelgado/main/dist/pet.svg" width="894">
 
-<p align="center">
+</div>
 
-<img src="https://skillicons.dev/icons?i=postgres,azure,aws,git,github" />
-
-</p>
-
-### 🪄 Testing and Monitoring
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,docker,postman" />
-
-</p>
-
-I also employ certain **AI familiars** in my daily work:
-
-**GitHub Copilot · Claude · Generative AI**
-
----
-
-## 📜 Current Quest
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│  ✦ Fullstack developer for the main global   │
-│  Chevron Fuels application.                  │
-│  Using Java and Angular.                     │
-
-```
-
----
+</div>
 
 ## 🗡️ Experience
 
@@ -97,7 +68,7 @@ I am particularly interested in the intersection between **software engineering 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DebyDelgado/DebyDelgado/main/dist/isocat.svg" width="894">
+<img src="https://raw.githubusercontent.com/DebyDelgado/DebyDelgado/main/dist/graph.svg" width="894">
 
 </div>
 
