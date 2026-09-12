@@ -98,6 +98,12 @@ I am particularly interested in the intersection between **software engineering 
 
 ---
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DebyDelgado/DebyDelgado/main/dist/pet.svg" width="300">
+
+</div>
+
 
 <p align="center">
   ⚔️ · 🏰 · 📜 · 🕯️ · 🐉
