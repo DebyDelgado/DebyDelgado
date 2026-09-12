@@ -1,6 +1,3 @@
-# ⚔️ Deborah Delgado
-
-
 <p align="center">
   <i>Software Engineer</i>
 </p>
@@ -36,7 +33,7 @@ I am in the process of obtaining Spanish citizenship to broaden my professional 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,angular,react,cs,dotnet,html,css" />
+<img src="https://skillicons.dev/icons?i=ts,js,angular,react,cs,dotnet,html,css,java" />
 
 </p>
 
@@ -100,7 +97,7 @@ I am particularly interested in the intersection between **software engineering 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DebyDelgado/DebyDelgado/main/dist/pet.svg" width="300">
+<img src="https://raw.githubusercontent.com/DebyDelgado/DebyDelgado/main/dist/pet.svg" width="600">
 
 </div>
 
@@ -109,6 +106,3 @@ I am particularly interested in the intersection between **software engineering 
   ⚔️ · 🏰 · 📜 · 🕯️ · 🐉
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2b2523&height=100&section=footer" />
-</p>
